@@ -1,0 +1,12 @@
+Test case number - TS001
+Bug number-1
+Bug title - User unable to register
+
+Test case number - TS001
+Bug number-1
+Bug title - User unable to register
+
+Test case number - TS002
+Bug number-1
+Bug title - User unable to login
+
